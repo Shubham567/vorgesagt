@@ -1,10 +1,11 @@
+// This is json5 we can comment in this
 {
     "blogName" : "Vorgesagt",
     "title" : "Convention is the killer of creativity",
     "subHeading" : "So, Let me take you to my mind palace of unconventional real world thought provoking ideas & researches.",
     "description" : "Convention is the killer of creativity. It is the enemy of growth. It is the enemy of innovation. It is the enemy of progress. It is the enemy of change. It is the enemy of success. It is the enemy of happiness. It is the enemy of freedom. It is the enemy of life.",
     "author" : "Shubham Shekhar",
-//    "cover" : "the-great-gatsby.png",
+    "cover" : "the-great-gatsby.png",
     "topBlogs": [
         'deep-fake-how-dangerous-is-it',
         'hello-world'
