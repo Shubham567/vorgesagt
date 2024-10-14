@@ -1,0 +1,9 @@
+{
+    "title": "Hello World!",
+    "description": "Welcome to my blog! This is Shubham Shekhar's personal blog. I am here to share the best of my knowledge, experience & ideas with you.",
+    "date": "Aug-21-2024",
+    "tags": ["Blog", "Thoughts"],
+    "published": true,
+    "author": "Shubham Shekhar",
+    "cover": "the-great-gatsby.png"
+}
