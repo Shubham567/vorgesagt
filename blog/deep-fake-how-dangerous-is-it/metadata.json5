@@ -5,13 +5,5 @@
     "tags": ["AI", "Machine Learning", "Deep Fake"],
     "published": true,
     "author": "Shubham Shekhar",
-    "cover": "pope.png",
-    "topBlogs": [
-        'deep-fake-how-dangerous-is-it',
-        'hello-world'
-    ],
-    "newBlogs" : [
-        'deep-fake-how-dangerous-is-it',
-        'hello-world'
-    ]
+    "cover": "pope.png"
 }
