@@ -1,0 +1,9 @@
+{
+    "title": "About me",
+    "description": "This page is about the author of this blog and why have they decided to write about some stuff!",
+    "date": "Mar-27-2025",
+    "tags": ["Personal", "About", "Author"],
+    "published": true,
+    "author": "Shubham Shekhar",
+    "cover": "me.jpg"
+}
