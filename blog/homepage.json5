@@ -7,11 +7,11 @@
     "author" : "Shubham Shekhar",
     "cover" : "the-great-gatsby.png",
     "topBlogs": [
+        'doing-things-we-hate',
         'future-of-computation-efficiency',
         'why-india-needs-more-censorship',
         'notification-anxiety',
         'stock-movement-with-news',
-        'deep-fake-how-dangerous-is-it',
         'hello-world'
     ],
 //    "newBlogs" : [
